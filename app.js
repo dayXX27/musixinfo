@@ -1,0 +1,1 @@
+const API_URL = 'https://ws.audioscrobbler.com/2.0/?method=artist.gettopalbums&artist=cher&api_key=5d2df7527e3aae5e2ce3b250fe868046&format=json';
